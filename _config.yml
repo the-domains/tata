@@ -1,0 +1,28 @@
+name: Tata
+favicon: null
+layout_spectrum: 0.0925024941097945
+typography_spectrum: 0.47793273720890284
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.06767842452973127
+  lightness: 0.717046971898526
+  saturation: 0.5093394825235009
+  rhythmicContrast: 0.3401193923782557
+purpose: []
