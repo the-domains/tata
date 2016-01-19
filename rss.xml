@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vlogi]]></title>
         <description><![CDATA[Vlogi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tata/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 23:08:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 23:13:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tata/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Women Leaders in the Church]]></title>
             <description><![CDATA[<article><h1>Women Leaders in the Church</h1><p>In a recent interview with America Magazine, the Pope spoke of his concern for women to find their proper role in the Church. He said, "Women are asking deep questions that must be addressed. The Church cannot be herself without the woman and her role." I agree with the Pope.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa5bb46d12a8a0a7bae5d899313ef8896ae468ee.jpg"></article>]]></description>
-            <link>http://krisvallotton.com/women-leaders-in-the-church/</link>
+            <link>https://thegrid.ai/tata/women-leaders-in-the-church/index.html</link>
             <guid isPermaLink="false">5441e129-42ee-4320-b093-3c1896c1be45</guid>
-            <pubDate>Tue, 19 Jan 2016 23:08:54 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 23:13:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
