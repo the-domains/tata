@@ -1,7 +1,7 @@
 name: Tata
 favicon: null
-layout_spectrum: 0.0925024941097945
-typography_spectrum: 0.47793273720890284
+layout_spectrum: 0.76303
+typography_spectrum: 0.06764
 title: Vlogi
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.06767842452973127
+    - '#e0d5cd'
+    - '#030200'
+    - '#212c16'
+    - '#a79e98'
+    - '#4d5c29'
+  brandStrength: 0.125
   lightness: 0.717046971898526
   saturation: 0.5093394825235009
   rhythmicContrast: 0.3401193923782557
