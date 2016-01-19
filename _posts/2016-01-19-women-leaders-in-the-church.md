@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://krisvallotton.com'
-  name: Kris Vallotton
-  favicon: 'http://krisvallotton.com/wp-content/themes/kris-vallotton-theme/assets/img/icons/favicon.ico'
-  domain: krisvallotton.com
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - women
   - jesus
@@ -17,18 +15,22 @@ keywords:
   - bible
   - crucified
   - apostles
-description: 'In a recent interview with America Magazine, the Pope spoke of his concern for women to find their proper role in the Church. He said, "Women are asking deep questions that must be addressed. The Church cannot be herself without the woman and her role." I agree with the Pope.'
-inLanguage: en
+description: ''
+datePublished: '2016-01-19T23:13:17.178Z'
+dateModified: '2016-01-19T23:13:12.708Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://krisvallotton.com/women-leaders-in-the-church/'
 title: Women Leaders in the Church
-datePublished: '2016-01-19T23:08:54.712Z'
-dateModified: '2016-01-19T23:08:07.535Z'
 sourcePath: _posts/2016-01-19-women-leaders-in-the-church.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Kris Vallotton
+  domain: krisvallotton.com
+  url: 'http://krisvallotton.com'
+  favicon: 'http://krisvallotton.com/wp-content/themes/kris-vallotton-theme/assets/img/icons/favicon.ico'
+url: women-leaders-in-the-church/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
